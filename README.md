@@ -1,2 +1,2 @@
 # Code-Force-Solutions
-  * https://codeforces.com/problemset/problem/10/A
+  * Power Consumption Calculation :- https://codeforces.com/problemset/problem/10/A
