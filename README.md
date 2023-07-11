@@ -4,3 +4,7 @@
   * JumpingJack:- https://codeforces.com/problemset/problem/11/B
   * SuperAgent:- https://codeforces.com/problemset/problem/12/A
   * Correct Solution:- https://codeforces.com/problemset/problem/12/B
+
+
+# Graph-Based Questions
+ * Dijkstra:- https://codeforces.com/problemset/problem/20/C/
