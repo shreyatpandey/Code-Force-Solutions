@@ -8,3 +8,8 @@
 
 # Graph-Based Questions
  * Dijkstra:- https://codeforces.com/problemset/problem/20/C/
+     * Variations in Dijkstra:-
+        * source vertex is not given
+        * source vertex is given
+        * approach without using priority-queue
+        * approach with using priority-queue
